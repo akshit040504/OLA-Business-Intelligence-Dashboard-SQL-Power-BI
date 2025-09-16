@@ -515,5 +515,5 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 
 For any queries or feedback, feel free to reach out:
 
-- **Name**: Neha Pal
-- **Email**: 11a.neha.pal@gmail.com
+- **Name**: Akshit Singh
+- **Email**: akshitsinghh.2504@gmail.com
